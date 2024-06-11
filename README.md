@@ -98,9 +98,8 @@ Navigate the Dashboard:
 Use the slicer to filter data by store location.
 Review the charts for insights on sales trends.
 
-Explore PivotTables:
+Explore PivotTables:PivotTables are hidden for a cleaner look but can be unhidden if needed for deeper analysis.
 
-PivotTables are hidden for a cleaner look but can be unhidden if needed for deeper analysis.
 Conclusion
 
 This project provides a comprehensive analysis of coffee shop sales data, offering valuable insights and recommendations for optimizing operations and marketing strategies. The dynamic dashboard facilitates easy interaction with the data, allowing for real-time exploration and decision-making.
