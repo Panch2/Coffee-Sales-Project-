@@ -78,19 +78,23 @@ Revenue Peaks: Revenue is highest in May and June.
 Transaction Trends: Transactions are stable throughout the week, with a slight drop on Saturdays.
 Peak Hours: Peak transaction hours are 8 AM to 10 AM.
 Popular Products: Brewed chai tea and gourmet brewed coffee are top-selling products.
+
 Recommendations:
+
 Operational Adjustments: Increase staffing during peak hours.
 Promotions: Target promotions on slower days, particularly Saturdays.
 Product Focus: Promote top-selling products and explore new offerings in popular categories.
 Usage Instructions
 
 Open the Excel File:
+
 Ensure macros are enabled if prompted.
 Navigate the Dashboard:
 Use the slicer to filter data by store location.
 Review the charts for insights on sales trends.
 
 Explore PivotTables:
+
 PivotTables are hidden for a cleaner look but can be unhidden if needed for deeper analysis.
 Conclusion
 
